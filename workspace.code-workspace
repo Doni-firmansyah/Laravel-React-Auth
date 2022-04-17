@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "auth-app"
+		},
+		{
+			"path": "laravel-auth"
+		}
+	],
+	"settings": {}
+}
